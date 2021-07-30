@@ -15,7 +15,6 @@ public class Assignment1
 	    	System.out.println("Enter N(Number of Columns");
 	    	int N = sc.nextInt();
 	        
-	        System.out.print("Enter the number of elements you want to store: ");
 	        int grid[][] = new int[M][N];
 	        
 	        Random rand = new Random();
