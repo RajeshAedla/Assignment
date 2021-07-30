@@ -1,0 +1,14 @@
+Instructions for the Execution of code
+
+==> When the code is executed it asks for the M and N values which define 
+	the size of Grid.(line 12-18)
+	
+==> After we define the size of Grid,i wrote a code for generating 0's and
+	 1's randomly.(line 20-36).
+	 
+==> The code from line 38-52 is for displaying the Grid.
+
+==> From 74 - 92 lines represents the rules for life of cell.
+
+==> For generating the next generation i wrote the code from 94 - 103 lines. 
+	 
